@@ -29,7 +29,7 @@ class Post extends StatelessWidget {
                   SizedBox(
                     width: 20,
                   ),
-                  Container(
+                  SizedBox(
                     width: 300,
                     height: 72,
                     child: Text("DEVEN MESTRY is with MAHESH"),
