@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class Thirdapp extends StatelessWidget {
+  const Thirdapp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

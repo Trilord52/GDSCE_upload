@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_class_practice_1/main2.dart';
 import 'package:flutter_class_practice_1/main3.dart';
 
 void main() {
